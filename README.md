@@ -1,4 +1,4 @@
-4212311020 _ MOH. VIAN RAHMATULLAH _ MEKATRONKA 5A MALAM _ MIDTERM-ASSIGNMENT
+4212311020 _ MOH. VIAN RAHMATULLAH _ MEKATRONIKA 5A MALAM _ MIDTERM-ASSIGNMENT
 
 Buatlah	program	untuk	klasifikasi	karakter	tulisan	tangan	pada	dataset	EMNIST	(Extended	MNIST)	menggunakan	HOG	Feature	Extraction	dengan	klasifier	Support	Vector	Machine	(SVM)
 - Dataset	yang	Anda	gunakan emnist-letters-train (jumlah	classes	:	26)
