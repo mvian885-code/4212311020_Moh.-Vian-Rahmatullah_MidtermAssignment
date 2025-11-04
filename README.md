@@ -11,6 +11,5 @@ Kesimpulan asesment ini bertujuan untuk mengukur kemampuan mahasiswa dalam mengi
 3. Melakukan evaluasi performa model dengan metode Leave-One-Out Cross-Validation (LOOCV), serta menampilkan confusion matrix, accuracy, precision, dan F1-score.
 4. Menguasai analisis performa model klasifikasi berbasis data citra dan menunjukkan kemampuan komunikasi ilmiah melalui dokumentasi dan presentasi video.
 
-• Hasil Source code program di-upload di Github : https://github.com/mvian885-code/4212311020_Moh.-Vian-Rahmatullah_MidtermAssignment
-
+• Hasil Source code program Github : https://github.com/mvian885-code/4212311020_Moh.-Vian-Rahmatullah_MidtermAssignment
 • Hasil Link Youtube : https://youtu.be/wpJ85Q2KMqc
